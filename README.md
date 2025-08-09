@@ -1,4 +1,4 @@
-Dear Navneesh,
+Dear Navnish,
 
 My name is Kunal Kumar Jha, and I have recently completed my Master’s in VLSI from MAHE, Manipal. In my final year, I designed and implemented a pipelined processor based on the RISC-V ISA using a MIPS-style architecture, which aligns closely with my keen interest in processor design. I also have a solid understanding of pipeline hazards and thread-level parallelism.
 
